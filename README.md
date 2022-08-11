@@ -1,5 +1,5 @@
 ### Hi everyone, I'm Andrew. 
-I'm a Tech Lead at [Patchworks](https://www.wearepatchworks.com/). I also run a hobby company called [Anooserve](https://anooserve.com).
+I'm Head of Development at [Patchworks](https://www.wearepatchworks.com/).
 
 Many of my personal repositories are over on [GitLab](https://gitlab.com/Andernoo). They may be mirrored here for convenience.
 
